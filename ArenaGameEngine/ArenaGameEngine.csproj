@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Admin\Downloads\Day 6_preraboten\Day 6_preraboten\Home Work ООП 1.sln" Link="Home Work ООП 1.sln" />
+  </ItemGroup>
+
+</Project>
